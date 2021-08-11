@@ -1,0 +1,22 @@
+*  {
+    background-color:azure;
+    
+   }
+
+   .banner {
+       display: flex;
+       flex-direction: column;
+       align-content: center;
+       justify-content: center;
+       border:black ;
+       box-sizing: border-box;
+       flex-wrap: wrap;
+       text-align: center;
+   }
+
+   .mainboxes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   }
